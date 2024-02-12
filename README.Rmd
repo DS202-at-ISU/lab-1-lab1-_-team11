@@ -22,20 +22,28 @@ This is a line from RStudio
 
 This is a line from RStudio - AE
 
-Answers: 
+This is a line from RStudio
+
 
 12.1 - Olivia and Alexa: I had no problems with accessing the test repository given to us and had already completed all the
-steps to add git into my studio and configure it 
+steps to add git into my studio and configure it
+Mason: I had no real problems accessing the repo and getting a clone of the repo, although I did have to install Git first.
 
-12.2 - Olivia and Alexa: we did not need to create a test repo because we were given one so creating and initializing it was not a problem 
+12.2 - Olivia and Alexa and Mason: we did not need to create a test repo because we were given one so creating and initializing it was not a problem 
 
-12.3 - Olivia and Alexa: because there were no problems with configuring my GitHub to my git in RStuio, the file cloned into my RStudio correctly, and I didn't have any issues 
+
+12.3 - Olivia and Alexa: because there were no problems with configuring my GitHub to my git in RStuio, the file cloned into my RStudio correctly, and I didn't have any issues
+Mason: The file cloned correctly in RStudio with no issues.
 
 12.4 - Olivia and Alexa: I had a little finding the git tab and the commit button, but other than user awareness, there were no problems on my part creating a commit and writing a message. 
+Mason: The only issue I faced was that I had to add my iastate email and username to git, otherwise everything worked after that.
+
 
 12.5 - Olivia: when doing the push, it initially did not want to allow me to, but after creating an access token and adding that to my Rstudio, it let me commit and push it 
 Alexa: I did not have any problems doing a push. It me link my git and GitHub. I did not have to make an access token. 
+Mason: The only issue that I came across was that I had to link my git and github in order to push a change. No token needed. After that I was able to push.
 
 12.6 - Olivia and Alexa: I was able to see the commit and the message in the readme file
+Mason: After I faced some error in the previous step, I had to redo the commit and push, but after that I saw my changes.
 
 12.7 - not completing this step per instructions 
